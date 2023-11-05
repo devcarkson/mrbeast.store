@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrbeast.store/en-de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrbeast.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrbeast.store/en-de/collections/hoodies.atom"/>
+  <title>MrBeast.store</title>
+  <updated>2023-10-12T07:51:37-04:00</updated>
+  <author>
+    <name>MrBeast.store</name>
+  </author>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6862383054899</id>
+    <published>2023-10-12T07:51:37-04:00</published>
+    <updated>2023-10-12T07:51:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/green-racing-club-hoodie"/>
+    <title>RACING CLUB HOODIE - GREEN</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/Greenracinghoodie_1.png?v=1697741206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Vibrant colors are so dated. But hoodies that look like you just crawled out of the desert? Now that's what the cool kids are wearing!<br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><strong>Details</strong></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% Cotton 420gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Regular fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom aglets</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in China</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>In Stock</s:tag>
+    <s:tag>LABORDAY23</s:tag>
+    <s:tag>MrBeast 1.0</s:tag>
+    <s:tag>MrBeast1.0</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>RVLT</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>Y10</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.10</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>Y12</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.12</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>Y14</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.14</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>Y16</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.16</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.S</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.M</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.L</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>XL</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>2XL</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.2XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6862383054899</id>
+      <title>3XL</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>RVLT.MRB.024.HOO.GRN.3XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6715395997747</id>
+    <published>2023-07-01T05:49:47-04:00</published>
+    <updated>2023-07-01T05:49:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/staple-beast-hoodie"/>
+    <title>STAPLE BEAST HOODIE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0004_858.jpg?v=1688204968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We've doubled down on quality for this hoodie. Made with 100% heavy cotton and quality stitching, this will be your favorite hoodie to wear.</p>
+<p> <strong>Details</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Cotton 420gsm</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Regular fit</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Custom aglets</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Made in China</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul>
+<div data-mce-fragment="1" class="ql-block" data-block-id="block-c7283cc2-5ce2-46f5-8d1d-ef5064acae84"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>In Stock</s:tag>
+    <s:tag>LABORDAY23</s:tag>
+    <s:tag>MrBeast 1.0</s:tag>
+    <s:tag>MrBeast1.0</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>RVLT</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / Y10</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / Y12</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / Y14</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / Y16</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.16</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / 2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.2XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Green / 3XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.GRN.3XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / Y10</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / Y12</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / Y14</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / Y16</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.16</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / 2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.2XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715395997747</id>
+      <title>Red / 3XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RVLT.MRB.018.HOO.RED.3XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6715469922355</id>
+    <published>2023-07-01T05:43:11-04:00</published>
+    <updated>2023-07-01T05:43:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/lighting-green-hoodie"/>
+    <title>MRBEAST LIGHTNING HOODIE - GREEN</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0003_1138.jpg?v=1688204578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Heavy-weight essential MrBeast hoodie. May or may not be lightning-proof, we're not sure.</span></p>
+<p data-mce-fragment="1"><strong>Details</strong></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% Cotton 420gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Regular fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom aglets</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in China</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul>
+<div data-block-id="block-517f350c-c595-4979-9342-00b6d28393e3" class="ql-block"><strong></strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>In Stock</s:tag>
+    <s:tag>LABORDAY23</s:tag>
+    <s:tag>MrBeast 1.0</s:tag>
+    <s:tag>MrBeast1.0</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>RVLT</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>Y10</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.10</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>Y12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.12</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>Y14</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.14</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>Y16</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.16</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.S</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.M</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.L</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.XL</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.2XL</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715469922355</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.005.HOO.GRN.3XL</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6711836835891</id>
+    <published>2023-07-01T05:33:12-04:00</published>
+    <updated>2023-07-01T05:33:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/credit-card-hoodie"/>
+    <title>INVESTOR 3M REFLECTIVE HOODIE - BLACK</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0002_1497.jpg?v=1688204201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Welcome to the only club that invests in Lamborghinis, chocolate factories, and giant minions. We've put together a super high-quality hoodie that isn't afraid to stand out from the rest with its reflective print. </span><strong data-mce-fragment="1"><br><br>REFLECTIVE TEXT WORKS BEST IN FULL LIGHT</strong><span data-mce-fragment="1"><br>You've gotta see it for yourself.</span><meta charset="utf-8"></p>
+<p data-mce-fragment="1"><strong>Details</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% Cotton 420gsm</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Regular fit</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">3M Reflective Screenprint</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Made in China</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul>
+<div data-block-id="block-46561c48-670c-473f-8143-0d0cdd6f681c" class="ql-block"></div>
+<div data-block-id="block-c7283cc2-5ce2-46f5-8d1d-ef5064acae84" class="ql-block"></div>
+<div data-block-id="block-517f350c-c595-4979-9342-00b6d28393e3" class="ql-block"><strong></strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>In Stock</s:tag>
+    <s:tag>LABORDAY23</s:tag>
+    <s:tag>MrBeast 1.0</s:tag>
+    <s:tag>MrBeast1.0</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>RVLT</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>Y10</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.10</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>Y12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.12</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>Y14</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.14</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>Y16</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.16</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.S</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.M</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.L</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.2XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711836835891</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.004.HOO.GRY.3XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928162586675</id>
+    <published>2023-06-29T14:51:04-04:00</published>
+    <updated>2023-06-29T14:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/shredder-pullover-hoodie-white"/>
+    <title>SHREDDER PULLOVER HOODIE - WHITE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0002_176-F-NEW.jpg?v=1688836467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Get up, get outside, and move in the all-new BEAST by MrBeast Active collection. This soft and relaxed fit pullover hoodie with a distinct “Shredder” logo is built for anything from downtime to go time.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown Cotton 350gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Loopback Terry</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Compact finishing for a luxurious hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and GOTS-approved facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Portugal</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Active</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162586675</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-WHT-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928165109811</id>
+    <published>2023-06-29T14:51:03-04:00</published>
+    <updated>2023-06-29T14:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/shredder-pullover-hoodie-black"/>
+    <title>SHREDDER PULLOVER HOODIE - BLACK</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0001_330-F.jpg?v=1688115239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Get up, get outside, and move in the all-new BEAST by MrBeast Active collection. This soft and relaxed fit pullover hoodie with a distinct “Shredder” logo is built for anything from downtime to go time.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown Cotton 350gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Loopback Terry</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Compact finishing for a luxurious hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and GOTS-approved facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Portugal</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Active</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928165109811</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-BLK-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928162062387</id>
+    <published>2023-06-29T14:51:03-04:00</published>
+    <updated>2023-06-29T14:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/shredder-pullover-hoodie-electric-blue"/>
+    <title>SHREDDER PULLOVER HOODIE - ELECTRIC BLUE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0003_1313-F-NEW.jpg?v=1688826668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Get up, get outside, and move in the all-new BEAST by MrBeast Active collection. This soft and relaxed fit pullover hoodie with a distinct “Shredder” logo is built for anything from downtime to go time.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown Cotton 350gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Loopback Terry</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Compact finishing for a luxurious hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and GOTS-approved facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Portugal</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Active</s:tag>
+    <s:tag>exchange-only</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>nycheist</s:tag>
+    <s:tag>pop_store</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928162062387</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0024-EBL-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928158982195</id>
+    <published>2023-06-29T14:49:28-04:00</published>
+    <updated>2023-06-29T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-hoodie-black"/>
+    <title>BEAST ORIGINALS HOODIE - BLACK</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0003_Beast-Originals-Hoodie-Black-Model1.jpg?v=1688157819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. Perfect for a morning coffee run or a long haul flight, this plush heavyweight hoodie with bold and tonal BEAST print is one of Jimmy and the boy’s faves too!</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 460gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hi-Density Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>exchange-only</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>nycheist</s:tag>
+    <s:tag>pop_store</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6927947661363</id>
+    <published>2023-06-29T14:49:28-04:00</published>
+    <updated>2023-06-29T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-hoodie-off-white"/>
+    <title>BEAST ORIGINALS HOODIE - OFF WHITE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/Untitled-2.jpg?v=1688116245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. Perfect for a morning coffee run or a long haul flight, this plush heavyweight hoodie with bold and tonal BEAST print is one of Jimmy and the boy’s faves too!</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 460gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hi-Density Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6927592456243</id>
+    <published>2023-06-29T14:49:25-04:00</published>
+    <updated>2023-06-29T14:49:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/dollar-bill-hoodie-black-pigment-dye"/>
+    <title>DOLLAR BILL HOODIE - BLACK PIGMENT DYE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0002_1481-F.jpg?v=1688070857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make money and give it away in this relaxed, soft, plush pullover hoodie with bold BEAST print.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown Cotton Fleece 360gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Pigment dye to create a worn in washed look</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLLAR</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592456243</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-PBK-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6927592423475</id>
+    <published>2023-06-29T14:49:24-04:00</published>
+    <updated>2023-06-29T14:49:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/dollar-bill-hoodie-off-white"/>
+    <title>DOLLAR BILL HOODIE - OFF WHITE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0002_1268-F.jpg?v=1688116984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make money and give it away in this relaxed, soft, plush pullover hoodie with bold BEAST print.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown Cotton Fleece 360gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" mce-data-marked="1" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLLAR</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927592423475</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0003-OWT-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6711835754547</id>
+    <published>2023-03-20T10:49:02-04:00</published>
+    <updated>2023-03-20T10:49:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-logo-hoodie-black"/>
+    <title>MRBEAST PRIVATE LABEL HOODIE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0000_1015.jpg?v=1688203689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">A signature, staple, essential. The embroidered heavy-weight MrBeast hoodie is something you need.</span></p>
+<p data-mce-fragment="1"><strong>Details</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% Cotton 420gsm</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Regular fit</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Made in China</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul>
+<div class="ql-block" data-block-id="block-517f350c-c595-4979-9342-00b6d28393e3"><strong></strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>In Stock</s:tag>
+    <s:tag>LABORDAY23</s:tag>
+    <s:tag>MrBeast 1.0</s:tag>
+    <s:tag>MrBeast1.0</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>RVLT</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / Y10</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.10</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / Y12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.12</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / Y14</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.14</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / Y16</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.16</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.S</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.M</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.L</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / 2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.2XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Navy / 3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.NVY.3XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / Y10</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.10</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / Y12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.12</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / Y14</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.14</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / Y16</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.16</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.S</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.M</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.L</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.2XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.BLK.3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / Y10</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.10</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / Y12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.12</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / Y14</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.14</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / Y16</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.16</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.S</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.M</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.L</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / 2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.2XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6711835754547</id>
+      <title>Grey / 3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.003.HOO.GRY.3XL</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6715399798835</id>
+    <published>2023-03-20T10:49:01-04:00</published>
+    <updated>2023-03-20T10:49:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/mrbeast-motorsports-hoodie"/>
+    <title>MRBEAST MOTORSPORTS HOODIE - BLUE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0004_771.jpg?v=1688246049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Official hoodie of the unofficial MrBeast racing team. Whether you drive a go-kart or a Tesla, join the club.</span></p>
+<p data-mce-fragment="1"><strong>Details</strong></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% Cotton 420gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Regular fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in China</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul>
+<div class="ql-block" data-block-id="block-517f350c-c595-4979-9342-00b6d28393e3"><strong></strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>In Stock</s:tag>
+    <s:tag>LABORDAY23</s:tag>
+    <s:tag>MrBeast 1.0</s:tag>
+    <s:tag>MrBeast1.0</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>RVLT</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>Y10</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.10</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>Y12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.12</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>Y14</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.14</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>Y16</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.16</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.S</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.M</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.L</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.XL</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.2XL</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6715399798835</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RVLT.MRB.002.HOO.BLU.3XL</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+  </entry>
+</feed>

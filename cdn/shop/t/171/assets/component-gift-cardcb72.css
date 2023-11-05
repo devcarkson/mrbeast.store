@@ -1,0 +1,21 @@
+recipient-form .icon-checkmark {
+  left: 0.2rem !important;
+  top: 0.4rem !important;
+  height: 1.2rem !important;
+  width: 1.2rem !important;
+}
+recipient-form .recipient-checkbox {
+  display: flex;
+  align-items: center;
+}
+recipient-form .recipient-checkbox svg {
+  margin: 0 1rem 0 0;
+}
+recipient-form .recipient-checkbox span {
+  font-size: 1.2rem;
+}
+recipient-form .field__input,
+recipient-form text-area {
+  font-family: Transducer_Regular;
+  font-size: 1.2rem !important;
+}

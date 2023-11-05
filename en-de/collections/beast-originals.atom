@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrbeast.store/en-de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrbeast.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrbeast.store/en-de/collections/beast-originals.atom"/>
+  <title>MrBeast.store</title>
+  <updated>2023-06-29T14:49:32-04:00</updated>
+  <author>
+    <name>MrBeast.store</name>
+  </author>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6929239212083</id>
+    <published>2023-06-29T14:49:32-04:00</published>
+    <updated>2023-06-29T14:49:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-classic-bill-ss-tee-black"/>
+    <title>BEAST ORIGINALS CLASSIC BILL SS TEE - BLACK</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0000_640.jpg?v=1688467105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. </span><span style="font-weight: 400;" data-mce-fragment="1" mce-data-marked="1" data-mce-style="font-weight: 400;">This tee is simple yet still holds a statement, we think you'll like it.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown Cotton 200gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>tees</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:tag>tshirts</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>XXS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK-2</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>SM</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>MD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK-4</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>LG</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK-5</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK-6</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>2XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK-7</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6929239212083</id>
+      <title>3XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0036-BLK-8</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928161341491</id>
+    <published>2023-06-29T14:49:30-04:00</published>
+    <updated>2023-06-29T14:49:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-sweatpant-black"/>
+    <title>BEAST ORIGINALS SWEATPANT - BLACK</title>
+    <s:type>Sweatpants</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0001_Beast-originals-sweatpant-black-1.jpg?v=1688127942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Sweatpants<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. </span></p>
+<p><span style="font-weight: 400;">These classic sweats bearing a tonal embroidered script logo and screenprint icon on the back are a must-have in every color, pair them with the Beast Originals Hoodie or Tee and get that matching look going.</span></p>
+<p><b>Details</b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% US Grown OE Cotton 460gsm</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Hi-Density Screenprint and Embroidery</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul>
+<ul data-mce-fragment="1"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>BOTTOMS</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>XXS</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>XS</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK-2</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>SM</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK-3</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>MD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK-4</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>LG</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK-5</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK-6</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK-7</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928161341491</id>
+      <title>3XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-BLK-8</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928160784435</id>
+    <published>2023-06-29T14:49:29-04:00</published>
+    <updated>2023-06-29T14:49:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-sweatpant-off-white"/>
+    <title>BEAST ORIGINALS SWEATPANT - OFF WHITE</title>
+    <s:type>Sweatpants</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0000_345.jpg?v=1688065365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Sweatpants<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">These classic sweats bearing a tonal embroidered script logo and screenprint icon on the back are a must-have in every color, pair them with the Beast Originals Hoodie or Tee and get that matching look going.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b><br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">100% US Grown OE Cotton 460gsm</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Custom relaxed fit</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Silicone wash for superior hand feel</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Hi-Density Screenprint and Embroidery</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Branded woven label</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Manufactured in an audited and sustainable facility</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Model is wearing size Medium</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in Vietnam</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>BOTTOMS</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>XXS</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>XS</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT-2</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>SM</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT-3</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>MD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT-4</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>LG</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT-5</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT-6</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT-7</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160784435</id>
+      <title>3XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MB0016-OWT-8</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928160260147</id>
+    <published>2023-06-29T14:49:29-04:00</published>
+    <updated>2023-06-29T14:49:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-short-black"/>
+    <title>BEAST ORIGINALS SHORT - BLACK</title>
+    <s:type>Sweatshorts</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0000_Beast-Originals-Short-Black.jpg?v=1688127502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Sweatshorts<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">These matching above-the-knee fleece shorts with tonal prints are a great closet staple, pair them with the Beast Originals Hoodie or Tee and get that matching look going.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 460gsm</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Hi-Density Screenprint on the front leg and back pocket</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>BOTTOMS</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>XXS</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>XS</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK-2</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>SM</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK-3</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>MD</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK-4</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>LG</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK-5</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK-6</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>2XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK-7</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928160260147</id>
+      <title>3XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-BLK-8</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928159866931</id>
+    <published>2023-06-29T14:49:29-04:00</published>
+    <updated>2023-06-29T14:49:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-short-off-white"/>
+    <title>BEAST ORIGINALS SHORT - OFF WHITE</title>
+    <s:type>Sweatshorts</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0000_396.jpg?v=1688135502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Sweatshorts<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">These matching above-the-knee fleece shorts with tonal prints are a great closet staple, pair them with the Beast Originals Hoodie or Tee and get that matching look going.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 460gsm</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Hi-Density Screenprint <meta charset="utf-8"> <span data-mce-fragment="1">on the front leg and back pocket</span></span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>BOTTOMS</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>XXS</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>XS</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT-2</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>SM</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT-3</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>MD</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT-4</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>LG</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT-5</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT-6</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>2XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT-7</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159866931</id>
+      <title>3XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MB0015-OWT-8</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928159211571</id>
+    <published>2023-06-29T14:49:29-04:00</published>
+    <updated>2023-06-29T14:49:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-ss-tee-black"/>
+    <title>BEAST ORIGINALS SS TEE - BLACK</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0002_Beast-originals-tee-black-front.jpg?v=1688155299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">A must for MrBeast fans of all ages, this simple yet luxurious tee goes with almost anything, pair it with the Beast Originals Short or Sweatpant and get that matching look going.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 200gsm</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Hi-Density Screenprint</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>tees</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:tag>tshirts</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>XXS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK-2</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>SM</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK-3</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>MD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK-4</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>LG</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK-5</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK-6</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>2XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK-7</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928159211571</id>
+      <title>3XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-BLK-8</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928158982195</id>
+    <published>2023-06-29T14:49:28-04:00</published>
+    <updated>2023-06-29T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-hoodie-black"/>
+    <title>BEAST ORIGINALS HOODIE - BLACK</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0003_Beast-Originals-Hoodie-Black-Model1.jpg?v=1688157819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. Perfect for a morning coffee run or a long haul flight, this plush heavyweight hoodie with bold and tonal BEAST print is one of Jimmy and the boy’s faves too!</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 460gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hi-Density Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>exchange-only</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>nycheist</s:tag>
+    <s:tag>pop_store</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158982195</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-BLK-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6928158818355</id>
+    <published>2023-06-29T14:49:28-04:00</published>
+    <updated>2023-06-29T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-ss-tee-off-white"/>
+    <title>BEAST ORIGINALS SS TEE - OFF WHITE</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/crop_0002_Beast-originals-tee-off-white-front-loose.jpg?v=1688116732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">A must for MrBeast fans of all ages, this simple yet luxurious tee goes with almost anything, pair it with the Beast Originals Short or Sweatpant and get that matching look going.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 200gsm</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Hi-Density Screenprint</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>tees</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:tag>tshirts</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>XXS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT-2</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>SM</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT-3</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>MD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT-4</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>LG</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT-5</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT-6</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>2XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT-7</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6928158818355</id>
+      <title>3XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MB0033-OWT-8</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/en-de/products/6927947661363</id>
+    <published>2023-06-29T14:49:28-04:00</published>
+    <updated>2023-06-29T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/en-de/products/beast-originals-hoodie-off-white"/>
+    <title>BEAST ORIGINALS HOODIE - OFF WHITE</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>MrBeast.Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/Untitled-2.jpg?v=1688116245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrBeast.Store<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">BEAST by MrBeast Originals focuses on a cleaner look with elevated fabrics and branding. Perfect for a morning coffee run or a long haul flight, this plush heavyweight hoodie with bold and tonal BEAST print is one of Jimmy and the boy’s faves too!</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Details</b></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% US Grown OE Cotton 460gsm</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Authentic MrBeast merchandise from MrBeast.Store</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Custom relaxed fit</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Silicone wash for superior hand feel</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hi-Density Screenprint</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Branded woven label</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Manufactured in an audited and sustainable facility</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Model is wearing size Medium</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made in Vietnam</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Make The World A Better Place</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beast Originals</s:tag>
+    <s:tag>hoodies</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Priority</s:tag>
+    <s:tag>ShopMrBeast 2.0</s:tag>
+    <s:tag>ShopMrBeast2.0</s:tag>
+    <s:tag>TOPS</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>XXS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>SM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>MD</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>LG</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>2XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-7</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrbeast.store/en-de/products/6927947661363</id>
+      <title>3XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>MB0014-OWT-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

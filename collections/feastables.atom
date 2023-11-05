@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrbeast.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrbeast.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrbeast.store/collections/feastables.atom"/>
+  <title>MrBeast.store</title>
+  <updated>2023-09-12T16:48:51-04:00</updated>
+  <author>
+    <name>MrBeast.store</name>
+  </author>
+  <entry>
+    <id>https://mrbeast.store/products/6946443591731</id>
+    <published>2023-09-12T16:48:51-04:00</published>
+    <updated>2023-09-12T16:48:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/products/the-sampler-pack-1"/>
+    <title>The Sampler Pack</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/files/SamplerPack-USSlanted_7d4c5a2f-7bc6-4f52-b477-d6e367cd1f86.png?v=1694717529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>feastables<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3 x Deez Nutz Chocolate</li>
+<li data-mce-fragment="1">3 x Milk Crunch Chocolate</li>
+<li data-mce-fragment="1">3 x Milk Chocolate</li>
+<li data-mce-fragment="1">3 x Chocolate Sea Salt</li>
+<li data-mce-fragment="1">3 x Original Chocolate</li>
+<!-- <li data-mce-fragment="1" hidden>2 x Almond Chocolate</li> -->
+<li data-mce-fragment="1">3 x Quinoa Crunch</li>
+</ul>
+<p><em><strong>NOTE: All<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a> product does not count toward free shipping thresholds as it is shipped and supplied by<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a></strong></em></p>
+<div id="awebChromeHelper"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feastables</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/products/6946443591731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>sku-9747647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/products/6946381037619</id>
+    <published>2023-09-12T15:04:20-04:00</published>
+    <updated>2023-09-12T15:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/products/milk-chocolate-crunch-10-pack"/>
+    <title>Milk Chocolate Crunch - 10 Pack</title>
+    <s:type>Candy &amp; Chocolate</s:type>
+    <s:vendor>feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/products/Milk-Crunch-Solo.png?v=1694544977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>feastables<br>
+        <strong>Type: </strong>Candy &amp; Chocolate<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-stringify-type="unordered-list" class="p-rich_text_list p-rich_text_list__bullet" data-indent="0" data-border="0" data-mce-fragment="1">
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">Tastes infinitely better than other CRUNCH bars</li>
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">Only 6 simple ingredients</li>
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">Chocolate from 100% organic cocoa</li>
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">Creamy grass-fed milk and crispy puffed rice deliver maximum crunch</li>
+</ul>
+<p><em><strong>NOTE: All<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a> product does not count toward free shipping thresholds as it is shipped and supplied by<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a></strong></em></p>
+<div id="awebChromeHelper"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feastables</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/products/6946381037619</id>
+      <title>10 Pack</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>sku-9747627</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/products/6946381004851</id>
+    <published>2023-09-12T15:01:31-04:00</published>
+    <updated>2023-09-12T15:01:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/products/milk-chocolate-10-pack"/>
+    <title>Milk Chocolate - 10 Pack</title>
+    <s:type>Candy &amp; Chocolate</s:type>
+    <s:vendor>feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/products/Milk_42f550dc-45e3-4a94-b5db-b603eea1b85d.png?v=1694544975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>feastables<br>
+        <strong>Type: </strong>Candy &amp; Chocolate<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Velvety smooth and deliciously creamy</li>
+<li>Milk from happy Grass-Fed cows 🤝 Delicious chocolate</li>
+<li>Only 5 ingredients</li>
+<li>Made with organic cocoa</li>
+</ul>
+<p><em><strong>NOTE: All<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a> product does not count toward free shipping thresholds as it is shipped and supplied by<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a></strong></em></p>
+<div id="awebChromeHelper"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feastables</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/products/6946381004851</id>
+      <title>10 Pack</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>sku-9747622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrbeast.store/products/6937689882675</id>
+    <published>2023-09-12T14:58:48-04:00</published>
+    <updated>2023-09-12T14:58:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrbeast.store/products/deeznutz"/>
+    <title>Deez Nutz - 10 Pack</title>
+    <s:type>Candy &amp; Chocolate</s:type>
+    <s:vendor>feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/1975/5059/products/DN-Solo_d4946556-e987-448a-962e-f893cceed2c2.png?v=1691775447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>feastables<br>
+        <strong>Type: </strong>Candy &amp; Chocolate<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-stringify-type="unordered-list" class="p-rich_text_list p-rich_text_list__bullet" data-indent="0" data-border="0" data-mce-fragment="1">
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">An EXPLOSION of chocolate peanut butter flavor</li>
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">Creamy, dreamy milk from grass-fed cows</li>
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">Only 7 ingredients</li>
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">Made with organic cocoa</li>
+<li data-stringify-indent="0" data-stringify-border="0" data-mce-fragment="1">You’ll want to put Deez Nutz in your mouth…</li>
+</ul>
+<p><em><strong>NOTE: All<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a> product does not count toward free shipping thresholds as it is shipped and supplied by<span> </span><a href="https://www.feastables.com" data-mce-href="https://www.feastables.com">Feastables</a></strong></em></p>
+<div id="awebChromeHelper"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feastables</s:tag>
+    <s:tag>non_nycheist</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:variant>
+      <id>https://mrbeast.store/products/6937689882675</id>
+      <title>10 Pack</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>sku-9747634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
